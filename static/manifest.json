@@ -1,0 +1,21 @@
+{
+  "name": "Pressure - Speed Word Game",
+  "short_name": "Pressure",
+  "description": "Find words in 2 minutes. Compete globally.",
+  "start_url": "/game",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

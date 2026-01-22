@@ -1,0 +1,762 @@
+[
+  {
+    "id": 1,
+    "tiles": [
+      "AP",
+      "AR",
+      "TM",
+      "ENT",
+      "RA",
+      "TI",
+      "ON",
+      "AL",
+      "SID",
+      "EB",
+      "OA",
+      "RD",
+      "PL",
+      "EA",
+      "SA",
+      "NT",
+      "HYP",
+      "OTE",
+      "NU",
+      "SE"
+    ],
+    "targets": [
+      "APARTMENT",
+      "RATIONAL",
+      "SIDEBOARD",
+      "PLEASANT",
+      "HYPOTENUSE"
+    ],
+    "splits": {
+      "APARTMENT": [
+        "AP",
+        "AR",
+        "TM",
+        "ENT"
+      ],
+      "RATIONAL": [
+        "RA",
+        "TI",
+        "ON",
+        "AL"
+      ],
+      "SIDEBOARD": [
+        "SID",
+        "EB",
+        "OA",
+        "RD"
+      ],
+      "PLEASANT": [
+        "PL",
+        "EA",
+        "SA",
+        "NT"
+      ],
+      "HYPOTENUSE": [
+        "HYP",
+        "OTE",
+        "NU",
+        "SE"
+      ]
+    },
+    "stats": {
+      "total_words": 68,
+      "total_score": 222,
+      "words_by_length": {
+        "1": 16,
+        "2": 31,
+        "3": 16,
+        "4": 5
+      }
+    },
+    "quality": 85,
+    "created": "2026-01-21T12:32:17.118829"
+  },
+  {
+    "id": 2,
+    "tiles": [
+      "BO",
+      "RD",
+      "EA",
+      "UX",
+      "ENC",
+      "HI",
+      "LA",
+      "DA",
+      "BAN",
+      "KRU",
+      "PT",
+      "CY",
+      "FL",
+      "AV",
+      "OR",
+      "FUL",
+      "BR",
+      "OW",
+      "NI",
+      "AN"
+    ],
+    "targets": [
+      "BORDEAUX",
+      "ENCHILADA",
+      "BANKRUPTCY",
+      "FLAVORFUL",
+      "BROWNIAN"
+    ],
+    "splits": {
+      "BORDEAUX": [
+        "BO",
+        "RD",
+        "EA",
+        "UX"
+      ],
+      "ENCHILADA": [
+        "ENC",
+        "HI",
+        "LA",
+        "DA"
+      ],
+      "BANKRUPTCY": [
+        "BAN",
+        "KRU",
+        "PT",
+        "CY"
+      ],
+      "FLAVORFUL": [
+        "FL",
+        "AV",
+        "OR",
+        "FUL"
+      ],
+      "BROWNIAN": [
+        "BR",
+        "OW",
+        "NI",
+        "AN"
+      ]
+    },
+    "stats": {
+      "total_words": 55,
+      "total_score": 175,
+      "words_by_length": {
+        "1": 19,
+        "2": 24,
+        "3": 7,
+        "4": 5
+      }
+    },
+    "quality": 80,
+    "created": "2026-01-21T12:32:18.891499"
+  },
+  {
+    "id": 3,
+    "tiles": [
+      "CO",
+      "MP",
+      "LE",
+      "MENT",
+      "MOZ",
+      "ZAR",
+      "EL",
+      "LA",
+      "ARC",
+      "HIP",
+      "ELA",
+      "GO",
+      "UN",
+      "IVE",
+      "RSI",
+      "TY",
+      "CRE",
+      "SC",
+      "EN",
+      "DO"
+    ],
+    "targets": [
+      "COMPLEMENT",
+      "MOZZARELLA",
+      "ARCHIPELAGO",
+      "UNIVERSITY",
+      "CRESCENDO"
+    ],
+    "splits": {
+      "COMPLEMENT": [
+        "CO",
+        "MP",
+        "LE",
+        "MENT"
+      ],
+      "MOZZARELLA": [
+        "MOZ",
+        "ZAR",
+        "EL",
+        "LA"
+      ],
+      "ARCHIPELAGO": [
+        "ARC",
+        "HIP",
+        "ELA",
+        "GO"
+      ],
+      "UNIVERSITY": [
+        "UN",
+        "IVE",
+        "RSI",
+        "TY"
+      ],
+      "CRESCENDO": [
+        "CRE",
+        "SC",
+        "EN",
+        "DO"
+      ]
+    },
+    "stats": {
+      "total_words": 63,
+      "total_score": 203,
+      "words_by_length": {
+        "1": 17,
+        "2": 29,
+        "3": 12,
+        "4": 5
+      }
+    },
+    "quality": 88,
+    "created": "2026-01-21T12:32:19.224067"
+  },
+  {
+    "id": 4,
+    "tiles": [
+      "DI",
+      "SC",
+      "OU",
+      "NT",
+      "BIB",
+      "LIO",
+      "GRA",
+      "PHY",
+      "LAM",
+      "IN",
+      "AT",
+      "ED",
+      "IRR",
+      "EG",
+      "UL",
+      "AR",
+      "MAY",
+      "ONN",
+      "AI",
+      "SE"
+    ],
+    "targets": [
+      "DISCOUNT",
+      "BIBLIOGRAPHY",
+      "LAMINATED",
+      "IRREGULAR",
+      "MAYONNAISE"
+    ],
+    "splits": {
+      "DISCOUNT": [
+        "DI",
+        "SC",
+        "OU",
+        "NT"
+      ],
+      "BIBLIOGRAPHY": [
+        "BIB",
+        "LIO",
+        "GRA",
+        "PHY"
+      ],
+      "LAMINATED": [
+        "LAM",
+        "IN",
+        "AT",
+        "ED"
+      ],
+      "IRREGULAR": [
+        "IRR",
+        "EG",
+        "UL",
+        "AR"
+      ],
+      "MAYONNAISE": [
+        "MAY",
+        "ONN",
+        "AI",
+        "SE"
+      ]
+    },
+    "stats": {
+      "total_words": 56,
+      "total_score": 194,
+      "words_by_length": {
+        "1": 14,
+        "2": 24,
+        "3": 13,
+        "4": 5
+      }
+    },
+    "quality": 77,
+    "created": "2026-01-21T12:32:19.474889"
+  },
+  {
+    "id": 5,
+    "tiles": [
+      "SAU",
+      "ERK",
+      "RA",
+      "UT",
+      "ANT",
+      "HO",
+      "LO",
+      "GY",
+      "CHA",
+      "MP",
+      "AG",
+      "NE",
+      "EXH",
+      "AU",
+      "ST",
+      "IVE",
+      "PU",
+      "BL",
+      "IC",
+      "IST"
+    ],
+    "targets": [
+      "SAUERKRAUT",
+      "ANTHOLOGY",
+      "CHAMPAGNE",
+      "EXHAUSTIVE",
+      "PUBLICIST"
+    ],
+    "splits": {
+      "SAUERKRAUT": [
+        "SAU",
+        "ERK",
+        "RA",
+        "UT"
+      ],
+      "ANTHOLOGY": [
+        "ANT",
+        "HO",
+        "LO",
+        "GY"
+      ],
+      "CHAMPAGNE": [
+        "CHA",
+        "MP",
+        "AG",
+        "NE"
+      ],
+      "EXHAUSTIVE": [
+        "EXH",
+        "AU",
+        "ST",
+        "IVE"
+      ],
+      "PUBLICIST": [
+        "PU",
+        "BL",
+        "IC",
+        "IST"
+      ]
+    },
+    "stats": {
+      "total_words": 70,
+      "total_score": 213,
+      "words_by_length": {
+        "1": 17,
+        "2": 38,
+        "3": 10,
+        "4": 5
+      }
+    },
+    "quality": 90,
+    "created": "2026-01-21T12:32:23.194364"
+  },
+  {
+    "id": 6,
+    "tiles": [
+      "STO",
+      "RYB",
+      "OA",
+      "RD",
+      "EXO",
+      "THE",
+      "RM",
+      "IC",
+      "IN",
+      "CR",
+      "EA",
+      "SE",
+      "AUTO",
+      "BIO",
+      "GRA",
+      "PHY",
+      "ACCE",
+      "LERO",
+      "MET",
+      "ER"
+    ],
+    "targets": [
+      "STORYBOARD",
+      "EXOTHERMIC",
+      "INCREASE",
+      "AUTOBIOGRAPHY",
+      "ACCELEROMETER"
+    ],
+    "splits": {
+      "STORYBOARD": [
+        "STO",
+        "RYB",
+        "OA",
+        "RD"
+      ],
+      "EXOTHERMIC": [
+        "EXO",
+        "THE",
+        "RM",
+        "IC"
+      ],
+      "INCREASE": [
+        "IN",
+        "CR",
+        "EA",
+        "SE"
+      ],
+      "AUTOBIOGRAPHY": [
+        "AUTO",
+        "BIO",
+        "GRA",
+        "PHY"
+      ],
+      "ACCELEROMETER": [
+        "ACCE",
+        "LERO",
+        "MET",
+        "ER"
+      ]
+    },
+    "stats": {
+      "total_words": 49,
+      "total_score": 172,
+      "words_by_length": {
+        "1": 14,
+        "2": 21,
+        "3": 9,
+        "4": 5
+      }
+    },
+    "quality": 78,
+    "created": "2026-01-21T12:32:23.994012"
+  },
+  {
+    "id": 7,
+    "tiles": [
+      "CH",
+      "EC",
+      "KO",
+      "UT",
+      "BAN",
+      "DW",
+      "ID",
+      "TH",
+      "GR",
+      "AC",
+      "EF",
+      "UL",
+      "PRE",
+      "DI",
+      "CA",
+      "TE",
+      "AQ",
+      "UE",
+      "DU",
+      "CT"
+    ],
+    "targets": [
+      "CHECKOUT",
+      "BANDWIDTH",
+      "GRACEFUL",
+      "PREDICATE",
+      "AQUEDUCT"
+    ],
+    "splits": {
+      "CHECKOUT": [
+        "CH",
+        "EC",
+        "KO",
+        "UT"
+      ],
+      "BANDWIDTH": [
+        "BAN",
+        "DW",
+        "ID",
+        "TH"
+      ],
+      "GRACEFUL": [
+        "GR",
+        "AC",
+        "EF",
+        "UL"
+      ],
+      "PREDICATE": [
+        "PRE",
+        "DI",
+        "CA",
+        "TE"
+      ],
+      "AQUEDUCT": [
+        "AQ",
+        "UE",
+        "DU",
+        "CT"
+      ]
+    },
+    "stats": {
+      "total_words": 59,
+      "total_score": 187,
+      "words_by_length": {
+        "1": 17,
+        "2": 29,
+        "3": 8,
+        "4": 5
+      }
+    },
+    "quality": 78,
+    "created": "2026-01-21T12:32:24.800418"
+  },
+  {
+    "id": 8,
+    "tiles": [
+      "OCC",
+      "URR",
+      "EN",
+      "CE",
+      "DE",
+      "STI",
+      "NA",
+      "TION",
+      "BIB",
+      "LIO",
+      "GRA",
+      "PHY",
+      "DRA",
+      "WBR",
+      "ID",
+      "GE",
+      "DI",
+      "AM",
+      "ET",
+      "ER"
+    ],
+    "targets": [
+      "OCCURRENCE",
+      "DESTINATION",
+      "BIBLIOGRAPHY",
+      "DRAWBRIDGE",
+      "DIAMETER"
+    ],
+    "splits": {
+      "OCCURRENCE": [
+        "OCC",
+        "URR",
+        "EN",
+        "CE"
+      ],
+      "DESTINATION": [
+        "DE",
+        "STI",
+        "NA",
+        "TION"
+      ],
+      "BIBLIOGRAPHY": [
+        "BIB",
+        "LIO",
+        "GRA",
+        "PHY"
+      ],
+      "DRAWBRIDGE": [
+        "DRA",
+        "WBR",
+        "ID",
+        "GE"
+      ],
+      "DIAMETER": [
+        "DI",
+        "AM",
+        "ET",
+        "ER"
+      ]
+    },
+    "stats": {
+      "total_words": 57,
+      "total_score": 198,
+      "words_by_length": {
+        "1": 12,
+        "2": 27,
+        "3": 13,
+        "4": 5
+      }
+    },
+    "quality": 78,
+    "created": "2026-01-21T12:32:26.620649"
+  },
+  {
+    "id": 9,
+    "tiles": [
+      "MU",
+      "LT",
+      "IP",
+      "LY",
+      "BAN",
+      "QU",
+      "ET",
+      "TE",
+      "HYD",
+      "ROL",
+      "YS",
+      "IS",
+      "ANT",
+      "AG",
+      "ON",
+      "IST",
+      "IND",
+      "EPE",
+      "NDE",
+      "NCE"
+    ],
+    "targets": [
+      "MULTIPLY",
+      "BANQUETTE",
+      "HYDROLYSIS",
+      "ANTAGONIST",
+      "INDEPENDENCE"
+    ],
+    "splits": {
+      "MULTIPLY": [
+        "MU",
+        "LT",
+        "IP",
+        "LY"
+      ],
+      "BANQUETTE": [
+        "BAN",
+        "QU",
+        "ET",
+        "TE"
+      ],
+      "HYDROLYSIS": [
+        "HYD",
+        "ROL",
+        "YS",
+        "IS"
+      ],
+      "ANTAGONIST": [
+        "ANT",
+        "AG",
+        "ON",
+        "IST"
+      ],
+      "INDEPENDENCE": [
+        "IND",
+        "EPE",
+        "NDE",
+        "NCE"
+      ]
+    },
+    "stats": {
+      "total_words": 52,
+      "total_score": 177,
+      "words_by_length": {
+        "1": 15,
+        "2": 23,
+        "3": 9,
+        "4": 5
+      }
+    },
+    "quality": 78,
+    "created": "2026-01-21T12:32:26.993960"
+  },
+  {
+    "id": 10,
+    "tiles": [
+      "OUT",
+      "RI",
+      "GG",
+      "ER",
+      "PR",
+      "OJ",
+      "EC",
+      "TION",
+      "OU",
+      "TB",
+      "OA",
+      "RD",
+      "SUC",
+      "CU",
+      "LE",
+      "NT",
+      "CON",
+      "DOM",
+      "INI",
+      "UM"
+    ],
+    "targets": [
+      "OUTRIGGER",
+      "PROJECTION",
+      "OUTBOARD",
+      "SUCCULENT",
+      "CONDOMINIUM"
+    ],
+    "splits": {
+      "OUTRIGGER": [
+        "OUT",
+        "RI",
+        "GG",
+        "ER"
+      ],
+      "PROJECTION": [
+        "PR",
+        "OJ",
+        "EC",
+        "TION"
+      ],
+      "OUTBOARD": [
+        "OU",
+        "TB",
+        "OA",
+        "RD"
+      ],
+      "SUCCULENT": [
+        "SUC",
+        "CU",
+        "LE",
+        "NT"
+      ],
+      "CONDOMINIUM": [
+        "CON",
+        "DOM",
+        "INI",
+        "UM"
+      ]
+    },
+    "stats": {
+      "total_words": 41,
+      "total_score": 158,
+      "words_by_length": {
+        "1": 12,
+        "2": 15,
+        "3": 9,
+        "4": 5
+      }
+    },
+    "quality": 76,
+    "created": "2026-01-21T12:32:31.218795"
+  }
+]
